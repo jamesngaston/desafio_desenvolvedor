@@ -7,9 +7,9 @@ Foi utilizado o ASP.NET Core MVC para a resolução
 - Microsoft SQL Server
 
 ## Instruções para rodar
--Fazer o clean e rebuild do projeto
--Executar o comando 'Update-Database' no Package Manager Console
--Executar o projeto
+- Fazer o clean e rebuild do projeto
+- Executar o comando 'Update-Database' no Package Manager Console
+- Executar o projeto
 
 # -----------------------------------------------
 
