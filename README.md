@@ -11,7 +11,7 @@ Foi utilizado o ASP.NET Core MVC para a resolução
 -Executar o comando 'Update-Database' no Package Manager Console
 -Executar o projeto
 
-#-----------------------------------------------
+# -----------------------------------------------
 
 # Desafio Desenvolvedor da Ponto Sistemas
 
