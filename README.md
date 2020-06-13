@@ -1,3 +1,18 @@
+# Resolução do Desafio por James N Gaston 
+
+## Características
+Foi utilizado o ASP.NET Core MVC para a resolução
+- .NET Core 3.1
+- Entity Framework
+- Microsoft SQL Server
+
+## Instruções para rodar
+-Fazer o clean e rebuild do projeto
+-Executar o comando 'Update-Database' no Package Manager Console
+-Executar o projeto
+
+#-----------------------------------------------
+
 # Desafio Desenvolvedor da Ponto Sistemas
 
 ## A Vaga
